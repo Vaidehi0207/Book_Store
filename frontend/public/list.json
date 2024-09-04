@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 20,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":3,
+        "name":"Haunted Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 50,
+        "category": "Khauf",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":4,
+        "name":"Sports Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 60,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":5,
+        "name":"Music Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 100,
+        "category": "Learn",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":7,
+        "name":"Food Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 70,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title": "This is a story book with romantic stories!!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1725372919~exp=1725376519~hmac=dbf6671e30932cbde939b78ac1683216fac3a676c053c779df4caa61dea445a7&w=740"
+    }
+]
